@@ -4,6 +4,8 @@ How to use?
 - Download Ghidra https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_11.4.1_build
 - Download Ghidra Emotion Engine Extension https://github.com/chaoticgd/ghidra-emotionengine-reloaded/releases
 - Extract the folder downloaded from the official Ghidra website (GitHub) Once extracted, open ghidrarun.bat. Once opened, it will ask you to install Java or SDK so that it will let you open it
+- <img width="825" height="430" alt="image" src="https://github.com/user-attachments/assets/ad5f3b9c-ee64-4a48-9bbd-565ac70b3d1c" />
+-<img width="824" height="738" alt="image" src="https://github.com/user-attachments/assets/c8a59cf1-dfaf-4fbd-83ac-8c1041f27c07" />
 - You create a new project and choose the destination where you want to save the project
 - Copy the ghidra emotion engine .zip and paste it into this path ghidra_11.4.1_PUBLIC_20250731\ghidra_11.4.1_PUBLIC\Extensions\Ghidra
 - <img width="905" height="723" alt="image" src="https://github.com/user-attachments/assets/3bfcf292-b647-42c1-ae93-06020d7d8b85" />
