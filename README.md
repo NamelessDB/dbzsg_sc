@@ -1,5 +1,8 @@
 Source code for the game Dragon Ball Sagas (PS2)
 
+Server Researching: https://discord.gg/mar37CNR
+
+
 How to use? 
 - Download Ghidra https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_11.4.1_build
 - Download Ghidra Emotion Engine Extension https://github.com/chaoticgd/ghidra-emotionengine-reloaded/releases
