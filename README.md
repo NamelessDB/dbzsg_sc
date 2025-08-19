@@ -16,6 +16,7 @@ How to use?
 - Go to the Ghidra app and go to the Install Extensions section File > Install Extensions
 - <img width="370" height="551" alt="image" src="https://github.com/user-attachments/assets/382af8ac-d12d-40c8-bd08-64de83e8a0c3" />
 - You will see the extensions with their name, description and version. You must select Ghidra Emotion Engine. Just click on the square once (you should see a blue check mark)
+- <img width="697" height="660" alt="image" src="https://github.com/user-attachments/assets/2c8e942a-f1d1-4736-941c-a2274cfa3043" />
 - Once Ghidra Emotion Engine is selected, press the "OK" button
 - You will see a message asking you to restart the program for the changes to take effect, then close the program and reopen it
 - Well, I'm not going to explain how to inject code because it's too much of an explanation. Maybe if I manage to make some modifications to the .elf file, I'll show you how to add new code or make simple modifications
