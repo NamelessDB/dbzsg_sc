@@ -20,5 +20,5 @@ How to use?
 - For now I'm just documenting, you know
 - <img width="768" height="554" alt="image" src="https://github.com/user-attachments/assets/2496f563-4666-4736-b083-3a1266e4e53e" />
 - You just click OK, and that's it! You can now start looking at the code I'm documenting. I'll update it every day if I can
-- Once you press "OK", a message will appear with information about Ghidra's analysis of the .elf file. Press OK and click twice on the SLU generated in your project, and see the code
+- Once you press "OK", a message will appear with information about Ghidra's analysis of the .elf file. Press OK and click twice on the SLUS generated in your project, and see the code
 
